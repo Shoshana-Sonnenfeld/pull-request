@@ -6,3 +6,7 @@ const A=()=>{
 const B=()=>{
     return("hello")
 }
+
+const C=()=>{
+    alert("hello")
+}
