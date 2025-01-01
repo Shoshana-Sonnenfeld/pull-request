@@ -4,5 +4,5 @@ const A=()=>{
 
 
 const B=()=>{
-    return("hello")
+    alert(1+8)
 }
