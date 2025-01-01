@@ -6,3 +6,4 @@ const A=()=>{
 const B=()=>{
     alert(1+8)
 }
+
