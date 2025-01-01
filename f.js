@@ -3,7 +3,7 @@ const A=()=>{
 }
 
 
-const B=()=>{
+const BC=()=>{
     alert(1+8)
 }
 
