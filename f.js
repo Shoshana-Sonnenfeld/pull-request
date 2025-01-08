@@ -1,4 +1,4 @@
 
-const B=()=>{
-    return("hello")
+const A=()=>{
+    return 12
 }
