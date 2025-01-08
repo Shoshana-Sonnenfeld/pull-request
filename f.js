@@ -1,5 +1,5 @@
 const A=()=>{
-    return 5
+    return 7
 }
 
 
